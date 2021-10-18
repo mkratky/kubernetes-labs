@@ -73,6 +73,7 @@ Estimated time: 30 minutes
 
 In this lab, you will:
 
+* Create DevOps Project
 * Create DevOps Artifacts
 * Define Pipeline Parameters
 * Create DevOps Pipeline
@@ -83,6 +84,10 @@ In this lab, you will:
 * An Oracle Free Tier(Trial), Paid or LiveLabs Cloud Account
 * GitHub account
 
+## Task 0: Create Project
+Create Notification topic
+Create LogGroup
+Create Project
 
 ## Task 1: Create Artifacts
 
