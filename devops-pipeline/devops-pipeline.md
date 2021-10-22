@@ -112,7 +112,7 @@ Go to OCI Navigation Menu -> Developer Services -> DevOps -> Projects.
 
 The project name should start with hello_<yourinitals> like for me its hello_hk. Provide some meaningful description to the project. Click on change topic and select your compartment and the topic you recently created for this project. Click on the Select topic and finally click on Create DevOps Project. 
  
- ![devops_project_creation](./images/devops-projectcreate1.png)
+ ![devops_project_creation](./images/devops-projectcreate.png)
 
  4. Creating Environment 
  
@@ -124,9 +124,9 @@ The project name should start with hello_<yourinitals> like for me its hello_hk.
  
  Click Create Environment
  
- ![devops_env](./images/devops-envcreation1.png.png)
+ ![devops_env1](./images/devops-envcreation1.png)
  
- ![devops_env](./images/devops-envcreation2.png.png) 
+ ![devops_env2](./images/devops-envcreation2.png) 
 
 ## Task 1: Create Artifacts
 
