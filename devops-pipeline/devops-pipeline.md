@@ -86,6 +86,11 @@ In this lab, you will:
 
 ## Task 0: Create Project
 Create Notification topic
+
+Go to OCI Cloud Console -> Click OCI Navigation Menu -> Developer Services -> Application Integration -> Notifications
+
+![devops project overview](./images/devops-project-overview.png)
+
 Create LogGroup
 Create Project
 
