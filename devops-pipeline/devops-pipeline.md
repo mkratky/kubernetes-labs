@@ -89,7 +89,11 @@ Create Notification topic
 
 Go to OCI Cloud Console -> Click OCI Navigation Menu -> Developer Services -> Application Integration -> Notifications
 
-![devops project overview](./images/devops-project-overview.png)
+Click on Create Topic.
+Please provide the Name and Description for your Topic.
+Click Create 
+
+![devops notification topic](./images/devops-NotificationTopic.png)
 
 Create LogGroup
 Create Project
