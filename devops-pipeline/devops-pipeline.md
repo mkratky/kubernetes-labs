@@ -422,7 +422,8 @@ This is going to publish multiple artifacts to our OKE environment.
 
     ![nats stage pipeline](./images/nats-stage-pipeline.png)
 
-1. Finally, we are going to create a stage for the fulfillment service. Click on the plus sign underneath fulfillment-deployment, then Add Stage.
+1. Finally, we are going to create a stage for the fulfillment service. Click on the plus sign underneath fulfillment-deployment, then Add Stage. Please select the Add Stage Tag here
+ 
     ![fulfillment service new stage](./images/fulfillment-service-new-stage.png)
 
 1. Next, Select `OKE:Default (Apply manifest to your Kubernetes cluster)` and click Next.
