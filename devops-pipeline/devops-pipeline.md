@@ -85,7 +85,7 @@ In this lab, you will:
 * GitHub account
 
 ## Task 0: Create Project
-Create Notification topic
+1. Create Notification topic
 
 Go to OCI Cloud Console -> Click OCI Navigation Menu -> Developer Services -> Application Integration -> Notifications
 
@@ -95,8 +95,38 @@ Click Create
 
 ![devops notification topic](./images/devops-NotificationTopic.png)
 
-Create LogGroup
-Create Project
+2. Create LogGroup
+
+Go to OCI Navigation Menu -> Observability & Management Logging -> Log Groups
+Click on Create Log Groups 
+Select your Compartment
+Name of the Log Group
+Please provide description of the Log Group.
+and Click Create. 
+
+![devops LogGroups](./images/devops-LogGroup.png)
+
+3. Create Project
+
+Go to OCI Navigation Menu -> Developer Services -> DevOps -> Projects. 
+
+The project name should start with hello_<yourinitals> like for me its hello_hk. Provide some meaningful description to the project. Click on change topic and select your compartment and the topic you recently created for this project. Click on the Select topic and finally click on Create DevOps Project. 
+ 
+ ![devops_project_creation](./images/devops-projectcreate1.png)
+
+ 4. Creating Environment 
+ 
+ Click on the DevOps Projects you recently created. Go to the Environments. On Basic Information select Oracle Kubernetes Engine. Provide some Name like Environment for Devops. Provide some Description like Enviroment for DevOps Project.
+ 
+ Click Next
+ 
+ Select the Region on your Kubernetes Cluster. Choose you compartment and the Kubernetes Cluster you have created in your previous Lab.
+ 
+ Click Create Environment
+ 
+ ![devops_env](./images/devops-envcreation1.png.png)
+ 
+ ![devops_env](./images/devops-envcreation2.png.png) 
 
 ## Task 1: Create Artifacts
 
