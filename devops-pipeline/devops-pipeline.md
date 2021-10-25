@@ -124,9 +124,10 @@ The project name should start with hello_<yourinitals> like for me its hello_hk.
  
  Click Create Environment
  
+ ![devops_env2](./images/devops-envcreation2.png) 
+
  ![devops_env1](./images/devops-envcreation1.png)
  
- ![devops_env2](./images/devops-envcreation2.png) 
 
 ## Task 1: Create Artifacts
 
